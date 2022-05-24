@@ -2,14 +2,16 @@
   "name": "kozyrrk",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Game Library",
   "license": "ISC",
   "dependencies": {
+    "ejs": "^3.1.8",
     "express": "^4.18.1",
+    "express-validator": "^6.14.1",
     "nodemon": "^2.0.16"
   }
 }

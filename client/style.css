@@ -1,8 +1,7 @@
-.modal-container{
+/* .modal-container{
    /* opacity:0;
-   pointer-events: none; */
-   
-}
+   pointer-events: none; 
+}*/
 
 .modal-container.show{
     pointer-events: auto;
