@@ -1,0 +1,10 @@
+.modal-container{
+   /* opacity:0;
+   pointer-events: none; */
+   
+}
+
+.modal-container.show{
+    pointer-events: auto;
+    opacity: 1;
+}
